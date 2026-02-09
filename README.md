@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k-k-sharma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web App development
+- 🌱 I’m currently learning .NET
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me ... kksharma82@gmail.com
 
 <!---
